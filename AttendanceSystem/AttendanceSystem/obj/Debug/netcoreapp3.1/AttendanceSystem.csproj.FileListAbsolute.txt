@@ -22,3 +22,6 @@ F:\Final Project\AttendanceSystem\AttendanceSystem\bin\Debug\netcoreapp3.1\runti
 F:\Final Project\AttendanceSystem\AttendanceSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 F:\Final Project\AttendanceSystem\AttendanceSystem\obj\Debug\netcoreapp3.1\AttendanceSystem.csproj.CopyComplete
 F:\Final Project\AttendanceSystem\AttendanceSystem\obj\Debug\netcoreapp3.1\AttendanceSystem.Main.resources
+F:\Final Project\AttendanceSystem\AttendanceSystem\obj\Debug\netcoreapp3.1\AttendanceSystem.Addstudent.resources
+F:\Final Project\AttendanceSystem\AttendanceSystem\obj\Debug\netcoreapp3.1\AttendanceSystem.EditStudent.resources
+F:\Final Project\AttendanceSystem\AttendanceSystem\obj\Debug\netcoreapp3.1\AttendanceSystem.DeleteStudent.resources

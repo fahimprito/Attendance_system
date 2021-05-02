@@ -18,7 +18,7 @@ namespace AttendanceSystem
 
         private void Registrationbt_Click(object sender, EventArgs e)
         {
-            
+
             string uname = textBoxuser.Text;
             string upass = textBoxpass.Text;
 
@@ -34,14 +34,14 @@ namespace AttendanceSystem
                     MessageBox.Show("Password not match");
                     conn.Close();
                 }
-                    
-                
+
+
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
-            
+
             string query = string.Format("insert into UserTable values ('{0}','{1}')", uname, upass);
             try
             {
@@ -61,7 +61,6 @@ namespace AttendanceSystem
                 MessageBox.Show(ex.Message);
             }
             conn.Close();
-
 
 
         }

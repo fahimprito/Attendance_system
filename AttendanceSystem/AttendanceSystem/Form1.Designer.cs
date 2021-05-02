@@ -82,6 +82,7 @@ namespace AttendanceSystem
             this.tbpass.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tbpass.Location = new System.Drawing.Point(38, 228);
             this.tbpass.Name = "tbpass";
+            this.tbpass.PasswordChar = '*';
             this.tbpass.Size = new System.Drawing.Size(258, 30);
             this.tbpass.TabIndex = 4;
             // 
